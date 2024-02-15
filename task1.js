@@ -34,5 +34,12 @@ let y=5;
 console.log(x%y);
 */
 
-var a = isNaN("11");
-var a = isNaN(2-10);
+// var a = isNaN("11");
+// var a = isNaN(2-10);
+
+
+console.log( typeof "NaN");
+
+ let name={
+name:
+age:
